@@ -137,6 +137,15 @@
     </item>
     
     <item>
+      <title>Multiscale Modeling of Geophysical Electromagnetic Fields in Highly Heterogeneous Media</title>
+      <link>https://lacaudillomata.github.io/talk/multiscale-modeling-of-geophysical-electromagnetic-fields-in-highly-heterogeneous-media/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/talk/multiscale-modeling-of-geophysical-electromagnetic-fields-in-highly-heterogeneous-media/</guid>
+      <description>&lt;p&gt;Accurate and efficient simulation of electromagnetic responses in realistic exploration geophysical settings is computationally expensive. Such settings involve big domains with highly heterogeneous media and features at multiple spatial scales that require very large meshes to be accurately represented. This results in linear systems of equations to be solved that often exceeds the limits of average computers. Here, we develop multiscale methods to reduce the size of the system of equations to be solved while retaining a good level of accuracy in the solution. We demonstrate the performance of the methods in the context of an application in mining exploration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mimetic and Non-mimetic Multiscale Modeling of Geophysical Electromagnetic Fields in Highly Heterogeneous Media</title>
       <link>https://lacaudillomata.github.io/talk/mimetic-and-non-mimetic-multiscale-modeling-of-geophysical-electromagnetic-fields-in-highly-heterogeneous-media/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
