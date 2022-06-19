@@ -5,12 +5,21 @@
     <link>https://lacaudillomata.github.io/event/</link>
       <atom:link href="https://lacaudillomata.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Past &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lacaudillomata.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Past &amp; Upcoming Talks</title>
       <link>https://lacaudillomata.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Un Enfoque de Aprendizaje Profundo Para el Mapeo de Prospección de Acuíferos</title>
+      <link>https://lacaudillomata.github.io/talk/un-enfoque-de-aprendizaje-profundo-para-el-mapeo-de-prospeccion-de-acuiferos/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/talk/un-enfoque-de-aprendizaje-profundo-para-el-mapeo-de-prospeccion-de-acuiferos/</guid>
+      <description>&lt;p&gt;La exploración de acuíferos requiere la integración efectiva de conjuntos diversos de datos geocientíficos (por ejemplo, geofísicos, hidrológicos, geológicos, geoquímicos) para ubicar, delinear y/o caracterizar los recursos hídricos. En esta charla, mostraré un enfoque de aprendizaje profundo para demostrar cómo técnicas de deep learning puede enriquecer el proceso de mapeo de prospectividad. La base del enfoque propuesto es una red neuronal convolucional profunda que diseñamos para aprender características a múltiples escalas. Veremos un ejemplo de este enfoque utilizando datos del Territorio del Norte en Australia. En la charla, también compartiré un poco de mi experiencia profesional transicionando entre diferentes campos de investigación aplicada, y de la Academia a la Industria.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Statistical Framework for Integrating AI and Classical Change-Detection Techniques For Monitoring Land-Based Objects</title>
