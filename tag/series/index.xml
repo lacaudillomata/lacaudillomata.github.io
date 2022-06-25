@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series | lacaudillomata</title>
+    <link>https://lacaudillomata.github.io/tag/series/</link>
+      <atom:link href="https://lacaudillomata.github.io/tag/series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Series</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <title>Series</title>
+      <link>https://lacaudillomata.github.io/tag/series/</link>
+    </image>
+    
+    <item>
+      <title>Science Leadership &amp; Management (SLAM) Workshops</title>
+      <link>https://lacaudillomata.github.io/initiatives/2018-slam/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/initiatives/2018-slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Computing, Applied, and Industrial Mathematics (SCAIM) Seminar</title>
+      <link>https://lacaudillomata.github.io/initiatives/2014-scaim/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/initiatives/2014-scaim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

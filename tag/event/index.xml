@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event | lacaudillomata</title>
+    <link>https://lacaudillomata.github.io/tag/event/</link>
+      <atom:link href="https://lacaudillomata.github.io/tag/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Event</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <title>Event</title>
+      <link>https://lacaudillomata.github.io/tag/event/</link>
+    </image>
+    
+    <item>
+      <title>LatinXperiences Workshop</title>
+      <link>https://lacaudillomata.github.io/initiatives/2021-latinxperiences/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/initiatives/2021-latinxperiences/</guid>
+      <description>&lt;p&gt;LatinXperiences is an event that strives to create new and lasting connections between established researchers, at top-tier universities and research laboratories, and early-career researchers and students from Latin American countries.&lt;/p&gt;
+&lt;p&gt;There are thriving research and tech communities in Latin America that, for the most part, do not interact with the AAAI community. Our goal is to bring these communities together in a welcoming, social environment.&lt;/p&gt;
+&lt;p&gt;This workshop was one of the accepted diversity and inclusion activities at the &lt;a href=https://aaai.org/Conferences/AAAI-21/&gt; AAAI-21 conference. &lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;latinXperiences.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Panel - Making a Career Transition Into Industry: Stories &amp; Tips from Math, CS, and Stats Alumni</title>
+      <link>https://lacaudillomata.github.io/initiatives/2020-careerhub/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/initiatives/2020-careerhub/</guid>
+      <description>&lt;p&gt;In this panel, alumni of graduate programs in mathematics, computer science, and statistics share how they successfully transitioned from academia into industrial positions in the areas of machine learning, AI, and data science. After learning from the story of each of our four panelists, we’ll have an extensive Q&amp;amp;A session.&lt;/p&gt;
+&lt;img src=&#34;promo_panel.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4th Mexican Mathematicians in the World</title>
+      <link>https://lacaudillomata.github.io/initiatives/2018-mexmatmun/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/initiatives/2018-mexmatmun/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Member of the scientific committee for the event 4th Mexican Mathematicians in the World &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Lead organizer of the Panel - Intercambio, Mobilidad, and Reincorporación.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;panelistas.png&#34;&gt;
+&lt;img src=&#34;organizadoras.png&#34;&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
