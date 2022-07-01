@@ -5,12 +5,41 @@
     <link>https://lacaudillomata.github.io/</link>
       <atom:link href="https://lacaudillomata.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>lacaudillomata</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 11:37:54 -0700</lastBuildDate>
     <image>
       <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>lacaudillomata</title>
       <link>https://lacaudillomata.github.io/</link>
     </image>
+    
+    <item>
+      <title>5th International Meeting of Artificial Intelligence and Its Applications (RIIAA 5.0)</title>
+      <link>https://lacaudillomata.github.io/community/2022-riiaa/</link>
+      <pubDate>Fri, 01 Jul 2022 11:37:54 -0700</pubDate>
+      <guid>https://lacaudillomata.github.io/community/2022-riiaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community of Practice on Machine Learning System Design</title>
+      <link>https://lacaudillomata.github.io/community/2022-cop-mlsd/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/community/2022-cop-mlsd/</guid>
+      <description>&lt;p&gt;This community of practice is organized within the Geointelligence Engineering Department at &lt;a href=&#34;https://mda.space/&#34;&gt;MDA&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; &lt;br&gt;
+Working group of engineers (software, systems) and product developers that shares best practices and knowledge on Machine Learning System Design in the context of next-generation Geointelligence products and services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Roles:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Founder&lt;/li&gt;
+&lt;li&gt;Co-organizer&lt;/li&gt;
+&lt;li&gt;Facilitator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Period:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From June 16, 2022 - Present&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Community Circles (CIRCOS) Program</title>
@@ -38,13 +67,20 @@
     </item>
     
     <item>
-      <title>4th International Meeting of Artificial Intelligence and Its Applications (RIIAA)</title>
+      <title>4th International Meeting of Artificial Intelligence and Its Applications (RIIAA 4.0)</title>
       <link>https://lacaudillomata.github.io/community/2021-riiaa/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/community/2021-riiaa/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Roles&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Co-Chair of the Technical Program &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Co-Chair of the Technical Program&lt;/li&gt;
+&lt;li&gt;Co-Chair of Program Community Circles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Selected Activities:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Coorditor of a team of 13 volunteers to execute the technical program of the virtual conference&lt;/li&gt;
+&lt;li&gt;Contributed to edit post: &lt;a href=&#34;https://medium.com/@contact_95113/riiaa-4-0-is-here-1054e4058203&#34;&gt; RIIAA 4.0 is here!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Contributed to edit post: &lt;a href=&#34;https://medium.com/@contact_95113/riiaa-catalyzing-artificial-intelligence-in-latam-32a7d5a05a4d&#34;&gt; RIIAA - Catalyzing Artificial Intelligence in LATAM &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -193,6 +229,20 @@ In this panel, alumni of graduate programs in mathematics, computer science, and
       <guid>https://lacaudillomata.github.io/talk/a-statistical-framework-for-integrating-ai-and-classical-change-detection-techniques-for-monitoring-land-based-objects/</guid>
       <description>&lt;p&gt;We discuss the development of a statistical framework that integrates AI and classical change-detection techniques for monitoring changes in land-based objects. The framework forms part of the &lt;em&gt;persistent multi-sensor land surveillance and change monitoring&lt;/em&gt; project funded by the &lt;a href=&#34;https://www.canada.ca/en/department-national-defence/news/2018/12/government-of-canada-announces-contract-awards-aimed-at-improving-space-based-earth-observation-capabilities.html&#34;&gt;Defence Innovation Research Program (DIRP) &lt;/a&gt; and MDA.&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;persistent multi-sensor land surveillance and change monitoring&lt;/em&gt; project leverages the complementarity of Optical and SAR satellite image stacks to better identify and monitor changes over large areas of land. The benefits include more persistent and operational all-weather monitoring capabilities and very high change classification accuracy. To achieve these benefits the project leverages new technologies such as Deep Learning and exploits the availability of large satellite image archives. The applications are far ranging and are expected to provide actionable intelligence to the Department of National Defence of Canada (DND) as well as to civil agencies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3rd International Meeting of Artificial Intelligence and Its Applications (RIIAA 3.0)</title>
+      <link>https://lacaudillomata.github.io/community/2020-riiaa/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/community/2020-riiaa/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Roles&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead Organizer &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Co-founder of program Community Circles (CIRCOS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;thanks_1.png&#34;&gt;
 </description>
     </item>
     
@@ -436,12 +486,42 @@ $$&lt;/p&gt;
 &lt;li&gt;Facilitator and co-organizer of the panel: Intercambio, Mobilidad y Reincorporación.&lt;/li&gt;
 &lt;li&gt;Co-organizer of the forum: Experiencias de Contratación y Re-incorporación&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Panel: Intercambio, Mobilidad y Reincorporación&lt;/strong&gt;
-&lt;img src=&#34;panelistas.png&#34;&gt;
-&lt;img src=&#34;organizadoras.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Foro: Experiencias de Contratación y Re-incorporación&lt;/strong&gt;
-&lt;img src=&#34;foristas.png&#34;&gt;
+&lt;img src=&#34;group_photo.jpg&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foro: Experiencias de Contratación y Re-incorporación</title>
+      <link>https://lacaudillomata.github.io/community/2018-mmm-foro/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/community/2018-mmm-foro/</guid>
+      <description>&lt;p&gt;Foro celebrado como parte del programa de la &lt;a href=&#34;http://www.matematicosmexicanos.org/mmm2018&#34;&gt;4ta Reunión de Matemáticos Mexicanos en el Mundo.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-organizer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumen:&lt;/strong&gt; &lt;br&gt;
+Foro para intercambiar opiniones en temas relacionados a experiencias de contratación y re-incorporación de científicos mexicanos a instituciones de investigación mexicanas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizadores:&lt;/strong&gt;
 &lt;img src=&#34;organizadores.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Panel en Intercambio, Mobilidad y Reincorporación</title>
+      <link>https://lacaudillomata.github.io/community/2018-mmm-panel/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/community/2018-mmm-panel/</guid>
+      <description>&lt;p&gt;Panel celebrado como parte del programa de la &lt;a href=&#34;http://www.matematicosmexicanos.org/mmm2018&#34;&gt;4ta Reunión de Matemáticos Mexicanos en el Mundo.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-organizer&lt;/li&gt;
+&lt;li&gt;Faciliator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumen:&lt;/strong&gt; &lt;br&gt;
+Panel centrado en discutir temas relacionados a intercambio, mobilidad, y reincorporación de científicos mexicanos en áreas matemáticas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizadoras:&lt;/strong&gt;
+&lt;img src=&#34;organizadoras.png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -671,11 +751,29 @@ Minisymposium consisted of two parts:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Scientific Computing, Applied, and Industrial Mathematics (SCAIM) Seminar</title>
+      <title>Scientific Computing, Applied, and Industrial Mathematics (SCAIM) Seminar Series</title>
       <link>https://lacaudillomata.github.io/community/2014-scaim/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/community/2014-scaim/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Scientific Computing, Applied and Industrial Mathematics (SCAIM) Seminar is an interdepartmental seminar at the University of British Columbia (UBC) focused on research in scientific computing, industrial and applied mathematics, mathematical modelling, and computational science.&lt;/p&gt;
+&lt;p&gt;The audience for the talks are typically faculty members and graduate students from the departments of Computer Science, Earth, Ocean and Atmospheric Sciences, Mathematics, Mechanical Engineering, and Physics &amp;amp; Astronomy.  The speakers are researchers from UBC or other institutions.&lt;/p&gt;
+&lt;p&gt;The seminar was held every 2 weeks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-organizer&lt;/li&gt;
+&lt;li&gt;Facilitator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Period:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From September 1st, 2014 to June 30th, 2016&lt;/li&gt;
+&lt;li&gt;Organized 34 seminars&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Seminars:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ubcscaim/archive/scaim-seminars-2014-2015&#34;&gt;2014-2015 Seminars &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ubcscaim/archive/scaim-seminars-2015-2016&#34;&gt;2015-2016 Seminars &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
