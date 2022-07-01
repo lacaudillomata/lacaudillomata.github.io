@@ -13,11 +13,66 @@
     </image>
     
     <item>
-      <title>Science Leadership &amp; Management (SLAM) Workshops</title>
+      <title>Science Leadership &amp; Management (SLAM) Workshop Series</title>
       <link>https://lacaudillomata.github.io/initiatives/2018-slam/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/initiatives/2018-slam/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Inverse Problems: from Multiscale Modeling to Uncertainty Quantification</title>
+      <link>https://lacaudillomata.github.io/initiatives/2017-congress-americas/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/initiatives/2017-congress-americas/</guid>
+      <description>&lt;p&gt;Special session (minysimposium) held as part of the Mathematical Congress of the Americas 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Roles:&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-organizer&lt;/li&gt;
+&lt;li&gt;Speaker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br&gt;
+Computational inverse problems are prevalent and essential in various scientific and industrial
+applications, ranging from biomedical and geophysical imaging to computer vision and
+neuroscience. For example, in many physical systems, measurements are obtained on the
+exterior of an object (e.g., the human body or the earth’s crust), and they are used with the goal of estimating the internal structure(s) or physical properties of such object.&lt;/p&gt;
+&lt;p&gt;Currently, the main challenges in the field of inverse problems are (1) the affordable
+computation of the forward model, especially for models with multiple length-scale features, (2)
+the efficient and reliable computation of solutions to inverse problems, and (3) the development
+of statistical methods to validate model assumptions and inversion estimates.
+Sophisticated tools from statistics, numerical optimization, numerical linear algebra, and
+multiscale analysis are required to address these challenges.&lt;/p&gt;
+&lt;p&gt;The goal of this special session is to gather a diverse and accomplished pool of experts working
+in the active and thriving research area of computational inverse problems who will present an
+overview of the state of-the-art methods to address the key challenges discussed. For
+example, speakers will present on new nonlinear optimization approaches, novel regularization
+techniques, iterative reconstruction techniques (e.g., hybrid methods and preconditioners),
+methods for statistical validation and uncertainty quantification, and the progress on multiscale
+methods and their applications within an inversion procedure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reduced Models and Multiscale Methods Minisymposium</title>
+      <link>https://lacaudillomata.github.io/initiatives/2017-multiscale-series/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/initiatives/2017-multiscale-series/</guid>
+      <description>&lt;p&gt;Minisymposium held as part of the SIAM Conference on Computational Science and Engineering (CSE17).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Roles:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-organizer&lt;/li&gt;
+&lt;li&gt;Speaker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br&gt;
+Accurate and efficient simulations of physical responses in large-scale heterogeneous media is crucial to search and image geological formations in a wide range of geophysical applications, including mineral and hydrocarbon exploration, water resource utilizations, and geothermal power extractions. One major challenge in practice to perform this type of simulations is the excessive computational cost it involves.&lt;/p&gt;
+&lt;p&gt;In this session we explore ways to reduce the complexity and the cost of the simulation by introducing multiscale and upscaling methods as well as reduce space modeling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Program&lt;/strong&gt;&lt;br&gt;
+Minisymposium consisted of two parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=61013&#34;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=61014&#34;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
