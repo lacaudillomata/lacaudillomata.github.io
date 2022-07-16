@@ -185,6 +185,18 @@ FV method with and without oversampling for a synthetic setting of a large-loop 
     </item>
     
     <item>
+      <title>High-performance Geoscientific Computing using Element-based Algebraic Multigrid</title>
+      <link>https://lacaudillomata.github.io/talk/high-performance-geoscientific-computing-using-element-based-algebraic-multigrid/</link>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/talk/high-performance-geoscientific-computing-using-element-based-algebraic-multigrid/</guid>
+      <description>&lt;p&gt;Geophysical simulations in large-scale heterogeneous media are computationally expensive. Discrete models require large meshes leading to solve huge systems of equations.&lt;/p&gt;
+&lt;p&gt;Spectral element-agglomeration multigrid (SA-AMGe) is a discretization framework for diffusion equations that reduces significantly the computational cost while providing accurate solutions. SA-AMGe was developed at Lawrence Livermore National Laboratory as a two-grid method and implemented on a parallel distributed memory C++ library.&lt;/p&gt;
+&lt;p&gt;In collaboration with Berkeley Lab, the SA-AMGe library was optimized to improve its parallel performance and extended to a multilevel method. In this work, we demonstrate such multilevel features and analyze its parallel performance using a synthetic geophysical setup.&lt;/p&gt;
+&lt;p&gt;Note: Project and results were presented in a poster.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Upscaling and Multiscale Finite Volume Methods for Geophysical Electromagnetic Modeling</title>
       <link>https://lacaudillomata.github.io/talk/upscaling-and-multiscale-finite-volume-methods-for-geophysical-electromagnetic-modeling/</link>
       <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
@@ -193,6 +205,18 @@ FV method with and without oversampling for a synthetic setting of a large-loop 
 &lt;p&gt;Geophysical time-varying electromagnetic simulations of highly heterogeneous media are computationally expensive. One reason for this is the fact that very fine meshes are often required to accurately discretize the physical properties of the media, which may vary over a wide range of length scales and several orders of magnitude. Using very fine meshes for the discrete models lead to solve large systems of equations that are often difficult to deal with at each time step.&lt;/p&gt;
 &lt;p&gt;To reduce the computational cost of the electromagnetic simulation, we develop a Multiscale finite volume method for the quasistatic Maxwell&amp;rsquo;s equations in the time domain. Our method begins by locally computing Multiscale basis functions at each time step, which incorporate the small-scale information contained in the physical properties of the media. Using a Galerkin proper orthogonal decomposition approach, the local basis functions are used to represent the solution on a coarse mesh. The governing equations are numerically integrated using an implicit time marching scheme.&lt;/p&gt;
 &lt;p&gt;Our approach leads to a significant reduction in the size of the final system of equations to be solved and in the amount of computational time of the simulation, while accurately approximating the behavior of the fine-mesh solutions. We demonstrate the performance of our method in the context of an airborne geophysical application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numerical Upscaling of Maxwell’s Equations and Its Application to EM Geophysical Surveys</title>
+      <link>https://lacaudillomata.github.io/talk/numerical-upscaling-of-maxwells-equations-and-its-application-to-em-geophysical-surveys/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/talk/numerical-upscaling-of-maxwells-equations-and-its-application-to-em-geophysical-surveys/</guid>
+      <description>&lt;p&gt;Geophysical Electromagnetic (EM) simulations in heterogeneous media are computationally expensive. One reason being the multiple length scales that coexist in a realistic setting.&lt;/p&gt;
+&lt;p&gt;Discrete models require large meshes leading to solve huge systems of equations. Element Agglomeration Multigrid (AMGe) upscaling, developed at Lawrence Livermore National Laboratory, is a discretization framework for wide classes of partial differential equations and unstructured meshes.  AMGe reduces significantly the computational cost while providing accurate solutions.&lt;/p&gt;
+&lt;p&gt;AMGe is implemented in the parallel distributed memory C++ library ParElag. Here, we show results of using ParElag on a synthetic example and how we plan to use it on an actual EM geophysical simulation.&lt;/p&gt;
+&lt;p&gt;Note: Project and results were presented in a poster.&lt;/p&gt;
 </description>
     </item>
     
@@ -252,7 +276,16 @@ FV method with and without oversampling for a synthetic setting of a large-loop 
       <link>https://lacaudillomata.github.io/talk/recent-developments-on-the-numerical-upscaling-and-homogenization-of-the-quasi-static-maxwells-equations/</link>
       <pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/talk/recent-developments-on-the-numerical-upscaling-and-homogenization-of-the-quasi-static-maxwells-equations/</guid>
-      <description></description>
+      <description>&lt;p&gt;Mineral exploration has exploited the application of mathematical modelling and inversion methods to electromagnetic data by creating a thoughtful workflow that assists in the identification of potential geological targets, the understanding of the larger scale stratigraphy and structure in which a deposit might be located, or delineating finer scale detail in an existing deposit. [1]&lt;/p&gt;
+&lt;p&gt;In recent years, electromagnetic modelling and inversion techniques based on finite volume and finite elements have been studied extensively due to their usefulness in theory as well as in practice [2].  Although the theoretical foundation for these methods is straight-forward, it can face major difficulties when used to simulate realistic situations.&lt;/p&gt;
+&lt;p&gt;One of the fundamental issues is modelling the vast heterogeneity of geological targets in terms of scale, magnitude and anisotropy.  Robust and accurate simulations require very fine meshes, especially when the earth is highly heterogeneous.  Such meshes are difficult-to-work-with and may lead to very expensive-to-compute  simulations when considering large earth-multiscale scenarios.  For instance, geological characterizations typically contain on the order of 1e7 to 1e8 cells.  These models, which are referred as fine models, represent geological variations on very fine scales vertically, though their areal resolution is still relatively coarse [3].&lt;/p&gt;
+&lt;p&gt;Numerical upscaling is a mathematical procedure that strive to develop coarse scale models to accurately approximate fine scale ones.  Therefore, it is a useful resource to alleviate the computational cost.  Upscaling of Maxwell&amp;rsquo;s equations presents big challenges such as choosing the appropriate upscaling method and the assessment of risk and uncertainty in geological characterizations.&lt;/p&gt;
+&lt;p&gt;In this work, we present insights on how to build an efficient framework that allows for homogenization and upscaling of the Maxwell&amp;rsquo;s Equations&amp;rsquo; coefficients trying to address the challenges mentioned above.  One example on geological characterization is provided.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[1] D. Oldenburg and D. Pratt, “Geophysical inversion for mineral exploration: A decade of progress in theory and practice,” Proceedings of exploration, 2007. &lt;br&gt;
+[2] S. H. Ward and G. W. Hohmann, &amp;ldquo;Electromagnetic theory for geophysical applications&amp;rdquo;, Electromagnetic Methods in Applied Geophysics, Issue 1.  pp. 131-311, 1998. Soc. Expl. Geophys. &lt;br&gt;
+[3] L. Durlofsky, “Upscaling of geocellular models for reservoir flow simulation: a review of recent progress,” 7th International Forum on Reservoir Simulation Bühl/Baden-Baden, Germany, pp. 1–58, 2003.&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -56,6 +56,12 @@
   <url>
     <loc>https://lacaudillomata.github.io/talk/a-deep-learning-approach-to-train-a-bi-temporal-change-detector-for-optical-satellite-imagery/</loc><lastmod>2020-03-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://lacaudillomata.github.io/tag/deep-learning/</loc><lastmod>2019-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://lacaudillomata.github.io/project/2019-dl-aquifer-prosp/</loc><lastmod>2019-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://lacaudillomata.github.io/project/</loc><lastmod>2019-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://lacaudillomata.github.io/talk/a-deep-learning-approach-for-aquifer-prospectivity-mapping/</loc><lastmod>2019-07-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://lacaudillomata.github.io/talk/multiscale-modeling-and-simulation-in-geophysical-electromagnetics/</loc><lastmod>2019-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -90,6 +96,12 @@
   <url>
     <loc>https://lacaudillomata.github.io/community/2017-open-src-geosci/</loc><lastmod>2017-12-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://lacaudillomata.github.io/tag/computational-sciences/</loc><lastmod>2017-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://lacaudillomata.github.io/project/2017-multiscale/</loc><lastmod>2017-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://lacaudillomata.github.io/project/2017-upscaling/</loc><lastmod>2017-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://lacaudillomata.github.io/community/2017-congress-americas/</loc><lastmod>2017-07-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://lacaudillomata.github.io/talk/multiscale-and-upscaling-methods-to-simulate-geophysical-electromagnetic-responses/</loc><lastmod>2017-07-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -108,13 +120,11 @@
   <url>
     <loc>https://lacaudillomata.github.io/talk/modelos-multiscala-para-simular-campos-electromagneticos-en-aplicaciones-geofisicas/</loc><lastmod>2016-08-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://lacaudillomata.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://lacaudillomata.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://lacaudillomata.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://lacaudillomata.github.io/talk/high-performance-geoscientific-computing-using-element-based-algebraic-multigrid/</loc><lastmod>2016-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://lacaudillomata.github.io/talk/upscaling-and-multiscale-finite-volume-methods-for-geophysical-electromagnetic-modeling/</loc><lastmod>2016-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://lacaudillomata.github.io/talk/numerical-upscaling-of-maxwells-equations-and-its-application-to-em-geophysical-surveys/</loc><lastmod>2015-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://lacaudillomata.github.io/talk/upscale-and-multiscale-methods-in-electromagnetics/</loc><lastmod>2015-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -141,6 +151,8 @@
     <loc>https://lacaudillomata.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://lacaudillomata.github.io/talk/5a-fachada-a-system-for-optimizing-designing-and-constructing-roofs-with-light-truss-based-steel-to-conserve-energy-and-materials/</loc><lastmod>2012-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://lacaudillomata.github.io/project/2011-quinta-fachada/</loc><lastmod>2011-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://lacaudillomata.github.io/community/2011-globalink/</loc><lastmod>2012-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

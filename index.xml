@@ -257,6 +257,14 @@ In this panel, alumni of graduate programs in mathematics, computer science, and
     </item>
     
     <item>
+      <title>Deep Learning For Water Exploration</title>
+      <link>https://lacaudillomata.github.io/project/2019-dl-aquifer-prosp/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/project/2019-dl-aquifer-prosp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Deep Learning Approach for Aquifer Prospectivity Mapping</title>
       <link>https://lacaudillomata.github.io/talk/a-deep-learning-approach-for-aquifer-prospectivity-mapping/</link>
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
@@ -554,6 +562,22 @@ src=&#34;https://www.youtube.com/embed/0GO4ZZ5Ry6M&#34; frameborder=&#34;0&#34; 
     </item>
     
     <item>
+      <title>Multiscale Methods For Geophysical Electromagnetics Modeling</title>
+      <link>https://lacaudillomata.github.io/project/2017-multiscale/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/project/2017-multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upscaling Methods For Geophysical Electromagnetics Modeling</title>
+      <link>https://lacaudillomata.github.io/project/2017-upscaling/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/project/2017-upscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computational Inverse Problems: from Multiscale Modeling to Uncertainty Quantification</title>
       <link>https://lacaudillomata.github.io/community/2017-congress-americas/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
@@ -624,7 +648,7 @@ FV method with and without oversampling for a synthetic setting of a large-loop 
     </item>
     
     <item>
-      <title>Reduced Models and Multiscale Methods Minisymposium</title>
+      <title>Reduced Models and Multiscale Methods Mini Symposium</title>
       <link>https://lacaudillomata.github.io/community/2017-multiscale-series/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/community/2017-multiscale-series/</guid>
@@ -675,15 +699,14 @@ Minisymposium consisted of two parts:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://lacaudillomata.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>High-performance Geoscientific Computing using Element-based Algebraic Multigrid</title>
+      <link>https://lacaudillomata.github.io/talk/high-performance-geoscientific-computing-using-element-based-algebraic-multigrid/</link>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/talk/high-performance-geoscientific-computing-using-element-based-algebraic-multigrid/</guid>
+      <description>&lt;p&gt;Geophysical simulations in large-scale heterogeneous media are computationally expensive. Discrete models require large meshes leading to solve huge systems of equations.&lt;/p&gt;
+&lt;p&gt;Spectral element-agglomeration multigrid (SA-AMGe) is a discretization framework for diffusion equations that reduces significantly the computational cost while providing accurate solutions. SA-AMGe was developed at Lawrence Livermore National Laboratory as a two-grid method and implemented on a parallel distributed memory C++ library.&lt;/p&gt;
+&lt;p&gt;In collaboration with Berkeley Lab, the SA-AMGe library was optimized to improve its parallel performance and extended to a multilevel method. In this work, we demonstrate such multilevel features and analyze its parallel performance using a synthetic geophysical setup.&lt;/p&gt;
+&lt;p&gt;Note: Project and results were presented in a poster.&lt;/p&gt;
 </description>
     </item>
     
@@ -696,6 +719,18 @@ Minisymposium consisted of two parts:&lt;/p&gt;
 &lt;p&gt;Geophysical time-varying electromagnetic simulations of highly heterogeneous media are computationally expensive. One reason for this is the fact that very fine meshes are often required to accurately discretize the physical properties of the media, which may vary over a wide range of length scales and several orders of magnitude. Using very fine meshes for the discrete models lead to solve large systems of equations that are often difficult to deal with at each time step.&lt;/p&gt;
 &lt;p&gt;To reduce the computational cost of the electromagnetic simulation, we develop a Multiscale finite volume method for the quasistatic Maxwell&amp;rsquo;s equations in the time domain. Our method begins by locally computing Multiscale basis functions at each time step, which incorporate the small-scale information contained in the physical properties of the media. Using a Galerkin proper orthogonal decomposition approach, the local basis functions are used to represent the solution on a coarse mesh. The governing equations are numerically integrated using an implicit time marching scheme.&lt;/p&gt;
 &lt;p&gt;Our approach leads to a significant reduction in the size of the final system of equations to be solved and in the amount of computational time of the simulation, while accurately approximating the behavior of the fine-mesh solutions. We demonstrate the performance of our method in the context of an airborne geophysical application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numerical Upscaling of Maxwell’s Equations and Its Application to EM Geophysical Surveys</title>
+      <link>https://lacaudillomata.github.io/talk/numerical-upscaling-of-maxwells-equations-and-its-application-to-em-geophysical-surveys/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/talk/numerical-upscaling-of-maxwells-equations-and-its-application-to-em-geophysical-surveys/</guid>
+      <description>&lt;p&gt;Geophysical Electromagnetic (EM) simulations in heterogeneous media are computationally expensive. One reason being the multiple length scales that coexist in a realistic setting.&lt;/p&gt;
+&lt;p&gt;Discrete models require large meshes leading to solve huge systems of equations. Element Agglomeration Multigrid (AMGe) upscaling, developed at Lawrence Livermore National Laboratory, is a discretization framework for wide classes of partial differential equations and unstructured meshes.  AMGe reduces significantly the computational cost while providing accurate solutions.&lt;/p&gt;
+&lt;p&gt;AMGe is implemented in the parallel distributed memory C++ library ParElag. Here, we show results of using ParElag on a synthetic example and how we plan to use it on an actual EM geophysical simulation.&lt;/p&gt;
+&lt;p&gt;Note: Project and results were presented in a poster.&lt;/p&gt;
 </description>
     </item>
     
@@ -781,7 +816,16 @@ Minisymposium consisted of two parts:&lt;/p&gt;
       <link>https://lacaudillomata.github.io/talk/recent-developments-on-the-numerical-upscaling-and-homogenization-of-the-quasi-static-maxwells-equations/</link>
       <pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/talk/recent-developments-on-the-numerical-upscaling-and-homogenization-of-the-quasi-static-maxwells-equations/</guid>
-      <description></description>
+      <description>&lt;p&gt;Mineral exploration has exploited the application of mathematical modelling and inversion methods to electromagnetic data by creating a thoughtful workflow that assists in the identification of potential geological targets, the understanding of the larger scale stratigraphy and structure in which a deposit might be located, or delineating finer scale detail in an existing deposit. [1]&lt;/p&gt;
+&lt;p&gt;In recent years, electromagnetic modelling and inversion techniques based on finite volume and finite elements have been studied extensively due to their usefulness in theory as well as in practice [2].  Although the theoretical foundation for these methods is straight-forward, it can face major difficulties when used to simulate realistic situations.&lt;/p&gt;
+&lt;p&gt;One of the fundamental issues is modelling the vast heterogeneity of geological targets in terms of scale, magnitude and anisotropy.  Robust and accurate simulations require very fine meshes, especially when the earth is highly heterogeneous.  Such meshes are difficult-to-work-with and may lead to very expensive-to-compute  simulations when considering large earth-multiscale scenarios.  For instance, geological characterizations typically contain on the order of 1e7 to 1e8 cells.  These models, which are referred as fine models, represent geological variations on very fine scales vertically, though their areal resolution is still relatively coarse [3].&lt;/p&gt;
+&lt;p&gt;Numerical upscaling is a mathematical procedure that strive to develop coarse scale models to accurately approximate fine scale ones.  Therefore, it is a useful resource to alleviate the computational cost.  Upscaling of Maxwell&amp;rsquo;s equations presents big challenges such as choosing the appropriate upscaling method and the assessment of risk and uncertainty in geological characterizations.&lt;/p&gt;
+&lt;p&gt;In this work, we present insights on how to build an efficient framework that allows for homogenization and upscaling of the Maxwell&amp;rsquo;s Equations&amp;rsquo; coefficients trying to address the challenges mentioned above.  One example on geological characterization is provided.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[1] D. Oldenburg and D. Pratt, “Geophysical inversion for mineral exploration: A decade of progress in theory and practice,” Proceedings of exploration, 2007. &lt;br&gt;
+[2] S. H. Ward and G. W. Hohmann, &amp;ldquo;Electromagnetic theory for geophysical applications&amp;rdquo;, Electromagnetic Methods in Applied Geophysics, Issue 1.  pp. 131-311, 1998. Soc. Expl. Geophys. &lt;br&gt;
+[3] L. Durlofsky, “Upscaling of geocellular models for reservoir flow simulation: a review of recent progress,” 7th International Forum on Reservoir Simulation Bühl/Baden-Baden, Germany, pp. 1–58, 2003.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -808,6 +852,14 @@ Minisymposium consisted of two parts:&lt;/p&gt;
       <link>https://lacaudillomata.github.io/talk/5a-fachada-a-system-for-optimizing-designing-and-constructing-roofs-with-light-truss-based-steel-to-conserve-energy-and-materials/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/talk/5a-fachada-a-system-for-optimizing-designing-and-constructing-roofs-with-light-truss-based-steel-to-conserve-energy-and-materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5ta Fachada - A System For Automating and Optimizing Steel Roof Manufacturing</title>
+      <link>https://lacaudillomata.github.io/project/2011-quinta-fachada/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/project/2011-quinta-fachada/</guid>
       <description></description>
     </item>
     
