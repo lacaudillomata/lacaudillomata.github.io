@@ -476,6 +476,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>The mimetic multiscale method for Maxwell’s equations</title>
+      <link>https://lacaudillomata.github.io/publication/2018-mimetic-ms/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2018-mimetic-ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multiscale Modeling of Geophysical Electromagnetic Fields in Highly Heterogeneous Media</title>
       <link>https://lacaudillomata.github.io/talk/multiscale-modeling-of-geophysical-electromagnetic-fields-in-highly-heterogeneous-media/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
@@ -562,11 +570,28 @@ src=&#34;https://www.youtube.com/embed/0GO4ZZ5Ry6M&#34; frameborder=&#34;0&#34; 
     </item>
     
     <item>
+      <title>Multiscale and upscaling methods for geophysical electromagnetic forward modeling</title>
+      <link>https://lacaudillomata.github.io/publication/2017-phd-thesis/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2017-phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multiscale Methods For Geophysical Electromagnetics Modeling</title>
       <link>https://lacaudillomata.github.io/project/2017-multiscale/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/project/2017-multiscale/</guid>
-      <description></description>
+      <description>&lt;p&gt;The focus of this investigation is to study how to reduce the computational cost
+of simulating the behavior of electromagnetic fields in complicated geophysical
+settings. This type of simulations are crucial to the exploration of buried natural
+resources (mineral, groundwater and hydrocarbon deposits) using electromagnetic methods. However, the size of the computation they involve often exceeds
+the limits of average computers.&lt;/p&gt;
+&lt;p&gt;This investigation proposes innovative mathematical alternatives — multiscale finite elements and finite volume methods — that achieve a great reduction of the problem’s size and the simulation cost without sacrificing much accuracy. It also opens the door to use such alternatives to create more powerful computational engines capable of simulating electromagnetic fields in larger and more complex geophysical settings than currently
+is possible.&lt;/p&gt;
+&lt;p&gt;This project was done as part of my doctoral dissertation. To provide more context, this study was the first one in the literature to demonstrate the practical use of the proposed alternatives in the context of geophysical
+electromagnetic problems.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -574,7 +599,16 @@ src=&#34;https://www.youtube.com/embed/0GO4ZZ5Ry6M&#34; frameborder=&#34;0&#34; 
       <link>https://lacaudillomata.github.io/project/2017-upscaling/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/project/2017-upscaling/</guid>
-      <description></description>
+      <description>&lt;p&gt;The focus of this investigation is to study how to reduce the computational cost
+of simulating the behavior of electromagnetic fields in complicated geophysical
+settings. This type of simulations are crucial to the exploration of buried natural
+resources (mineral, groundwater and hydrocarbon deposits) using electromagnetic methods. However, the size of the computation they involve often exceeds
+the limits of average computers.&lt;/p&gt;
+&lt;p&gt;This investigation proposes innovative mathematical alternatives — upscaling finite elements and finite volume methods — that achieve a great reduction of the problem’s size and the simulation cost without sacrificing much accuracy. It also opens the door to use such alternatives to create more powerful computational engines capable of simulating electromagnetic fields in larger and more complex geophysical settings than currently
+is possible.&lt;/p&gt;
+&lt;p&gt;This project was done as part of my doctoral dissertation. To provide more context, this study was the first one in the literature to demonstrate the practical use of the proposed alternatives in the context of geophysical
+electromagnetic problems.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -631,6 +665,22 @@ FV method with and without oversampling for a synthetic setting of a large-loop 
     </item>
     
     <item>
+      <title>An oversampling technique for the multiscale finite volume method to simulate electromagnetic responses in the frequency domain</title>
+      <link>https://lacaudillomata.github.io/publication/2016-oversampling-ms/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for the Upscaling of the Electrical Conductivity in the Quasi-static Maxwell&#39;s Equations</title>
+      <link>https://lacaudillomata.github.io/publication/2016-upscaling/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-upscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multiscale and Upscaling Finite Volume Methods to Simulate Geophysical Electromagnetic Responses</title>
       <link>https://lacaudillomata.github.io/talk/multiscale-and-upscaling-finite-volume-methods-to-simulate-geophysical-electromagnetic-responses/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
@@ -680,6 +730,14 @@ Minisymposium consisted of two parts:&lt;/p&gt;
     </item>
     
     <item>
+      <title>An oversampling technique for multiscale finite volume method to simulate frequency-domain electromagnetic responses</title>
+      <link>https://lacaudillomata.github.io/publication/2016-oversampling-abstract/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Multiscale Finite Volume Method with Oversampling for Geophysical Electromagnetic Simulations</title>
       <link>https://lacaudillomata.github.io/talk/a-multiscale-finite-volume-method-with-oversampling-for-geophysical-electromagnetic-simulations/</link>
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
@@ -708,6 +766,14 @@ Minisymposium consisted of two parts:&lt;/p&gt;
 &lt;p&gt;In collaboration with Berkeley Lab, the SA-AMGe library was optimized to improve its parallel performance and extended to a multilevel method. In this work, we demonstrate such multilevel features and analyze its parallel performance using a synthetic geophysical setup.&lt;/p&gt;
 &lt;p&gt;Note: Project and results were presented in a poster.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Multiscale Finite Volume Method with Oversampling for Geophysical Electromagnetic Simulations</title>
+      <link>https://lacaudillomata.github.io/publication/2016-oversampling-abstract-b/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-abstract-b/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -786,6 +852,14 @@ Minisymposium consisted of two parts:&lt;/p&gt;
     </item>
     
     <item>
+      <title>Numerical upscaling of electrical conductivity: A problem specific approach to generate coarse-scale models</title>
+      <link>https://lacaudillomata.github.io/publication/2014-upscaling/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2014-upscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scientific Computing, Applied, and Industrial Mathematics (SCAIM) Seminar Series</title>
       <link>https://lacaudillomata.github.io/community/2014-scaim/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
@@ -829,25 +903,6 @@ Minisymposium consisted of two parts:&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://lacaudillomata.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>5a Fachada: a system for optimizing, designing, and constructing roofs with light truss-based steel to conserve energy and materials</title>
       <link>https://lacaudillomata.github.io/talk/5a-fachada-a-system-for-optimizing-designing-and-constructing-roofs-with-light-truss-based-steel-to-conserve-energy-and-materials/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
@@ -856,11 +911,25 @@ Minisymposium consisted of two parts:&lt;/p&gt;
     </item>
     
     <item>
-      <title>5ta Fachada - A System For Automating and Optimizing Steel Roof Manufacturing</title>
+      <title>5ta Fachada: A System For Automating and Optimizing Steel Roof Manufacturing</title>
       <link>https://lacaudillomata.github.io/project/2011-quinta-fachada/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/project/2011-quinta-fachada/</guid>
-      <description></description>
+      <description>&lt;p&gt;El proyecto consiste en desarrollar un laboratorio virtual (software) que realiza el
+análisis, el cálculo y la optimización de estructuras de acero rolado en frío, así como la cuantificación de los materiales utilizados en la construcción de la techumbre completa.&lt;/p&gt;
+&lt;p&gt;El software está dotado con una interfase de usuario fácil de usar, intuitiva
+y amigable. El análisis estructural considera cargas de peso propio, muertas y vivas a las que estará sometida la estructura en condiciones de servicio, además se consideran los efectos de viento y sismo para la República Mexicana de acuerdo a la normatividad vigente de la Comisión Federal de Electricidad (CFE).&lt;/p&gt;
+&lt;p&gt;El optimizadorestá basado en métodos de minimización de entropía con restricciones múltiples
+evaluando cada una de las estructuras por el método de la rigidez, el cual genera matrices ralas. El sistema de ecuaciones resultante se puede resolver con una variedad
+de métodos directos e iterativos, al respecto de estos últimos, se han implementado
+algoritmos de última generación dentro del software.&lt;/p&gt;
+&lt;p&gt;Cabe mencionar que para la evaluación de la eficiencia de la estructura
+se utiliza la normativa vigente para diseño de elementos de acero rolado en frío
+para la República Mexicana AISI-ASD.&lt;/p&gt;
+&lt;p&gt;La combinación adecuada del seguimiento de las normatividades vigentes, la implementación del optimizador y los métodos matriciales para el cálculo de estructuras, aunado al ambiente grafico fácil de usar y amigable para el usuario final, han resultado en un potente software que
+genera soluciones de vivienda económicas, confiables, seguras y estéticas, favoreciendo
+así a un amplio sector de la sociedad mexicana.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -876,6 +945,14 @@ Minisymposium consisted of two parts:&lt;/p&gt;
       <link>https://lacaudillomata.github.io/talk/5a-fachada-a-system-for-optimizing-designing-and-constructing-roofs-with-light-truss-based-steel-to-conserve-energy-and-materials/</link>
       <pubDate>Thu, 09 Dec 2010 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/talk/5a-fachada-a-system-for-optimizing-designing-and-constructing-roofs-with-light-truss-based-steel-to-conserve-energy-and-materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5a Fachada, un sistema para optimizar, diseñar y construir techos con estructuras metálicas ligeras basados en el sustento del ahorro de los materiales y energía</title>
+      <link>https://lacaudillomata.github.io/publication/2010-quinta-fachada/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2010-quinta-fachada/</guid>
       <description></description>
     </item>
     
@@ -913,10 +990,42 @@ Minisymposium consisted of two parts:&lt;/p&gt;
     </item>
     
     <item>
+      <title>Identificación de parámetros de un acuífero no confinado utilizando el método del sistema diferencial modificado formulado con elementos finitos</title>
+      <link>https://lacaudillomata.github.io/publication/2008-msc-thesis/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2008-msc-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Industrial Problem-Solving Annual (SPI) Workshops</title>
       <link>https://lacaudillomata.github.io/community/2008-spi/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/community/2008-spi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low computational cost numerical method for solving mixed diffusion problems</title>
+      <link>https://lacaudillomata.github.io/publication/2007-diffussion/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2007-diffussion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low computational cost numerical method for solving mixed diffusion problems</title>
+      <link>https://lacaudillomata.github.io/publication/2004-diffusion/</link>
+      <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2004-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un método de autofunciones para resolución numérica de problemas parabólicos mixtos de segundo orden</title>
+      <link>https://lacaudillomata.github.io/publication/2004-bsc-thesis/</link>
+      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2004-bsc-thesis/</guid>
       <description></description>
     </item>
     

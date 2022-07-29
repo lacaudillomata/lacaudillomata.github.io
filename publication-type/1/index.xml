@@ -5,7 +5,7 @@
     <link>https://lacaudillomata.github.io/publication-type/1/</link>
       <atom:link href="https://lacaudillomata.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,22 +13,27 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://lacaudillomata.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>An oversampling technique for multiscale finite volume method to simulate frequency-domain electromagnetic responses</title>
+      <link>https://lacaudillomata.github.io/publication/2016-oversampling-abstract/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multiscale Finite Volume Method with Oversampling for Geophysical Electromagnetic Simulations</title>
+      <link>https://lacaudillomata.github.io/publication/2016-oversampling-abstract-b/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-abstract-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical upscaling of electrical conductivity: A problem specific approach to generate coarse-scale models</title>
+      <link>https://lacaudillomata.github.io/publication/2014-upscaling/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2014-upscaling/</guid>
+      <description></description>
     </item>
     
   </channel>

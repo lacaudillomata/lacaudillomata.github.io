@@ -5,7 +5,7 @@
     <link>https://lacaudillomata.github.io/publication/</link>
       <atom:link href="https://lacaudillomata.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,22 +13,99 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://lacaudillomata.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The mimetic multiscale method for Maxwell’s equations</title>
+      <link>https://lacaudillomata.github.io/publication/2018-mimetic-ms/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2018-mimetic-ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale and upscaling methods for geophysical electromagnetic forward modeling</title>
+      <link>https://lacaudillomata.github.io/publication/2017-phd-thesis/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2017-phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An oversampling technique for the multiscale finite volume method to simulate electromagnetic responses in the frequency domain</title>
+      <link>https://lacaudillomata.github.io/publication/2016-oversampling-ms/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for the Upscaling of the Electrical Conductivity in the Quasi-static Maxwell&#39;s Equations</title>
+      <link>https://lacaudillomata.github.io/publication/2016-upscaling/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-upscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An oversampling technique for multiscale finite volume method to simulate frequency-domain electromagnetic responses</title>
+      <link>https://lacaudillomata.github.io/publication/2016-oversampling-abstract/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multiscale Finite Volume Method with Oversampling for Geophysical Electromagnetic Simulations</title>
+      <link>https://lacaudillomata.github.io/publication/2016-oversampling-abstract-b/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-abstract-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical upscaling of electrical conductivity: A problem specific approach to generate coarse-scale models</title>
+      <link>https://lacaudillomata.github.io/publication/2014-upscaling/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2014-upscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5a Fachada, un sistema para optimizar, diseñar y construir techos con estructuras metálicas ligeras basados en el sustento del ahorro de los materiales y energía</title>
+      <link>https://lacaudillomata.github.io/publication/2010-quinta-fachada/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2010-quinta-fachada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identificación de parámetros de un acuífero no confinado utilizando el método del sistema diferencial modificado formulado con elementos finitos</title>
+      <link>https://lacaudillomata.github.io/publication/2008-msc-thesis/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2008-msc-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low computational cost numerical method for solving mixed diffusion problems</title>
+      <link>https://lacaudillomata.github.io/publication/2007-diffussion/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2007-diffussion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A low computational cost numerical method for solving mixed diffusion problems</title>
+      <link>https://lacaudillomata.github.io/publication/2004-diffusion/</link>
+      <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2004-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un método de autofunciones para resolución numérica de problemas parabólicos mixtos de segundo orden</title>
+      <link>https://lacaudillomata.github.io/publication/2004-bsc-thesis/</link>
+      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/publication/2004-bsc-thesis/</guid>
+      <description></description>
     </item>
     
   </channel>

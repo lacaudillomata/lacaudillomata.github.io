@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | lacaudillomata</title>
+    <link>https://lacaudillomata.github.io/tag/machine-learning/</link>
+      <atom:link href="https://lacaudillomata.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://lacaudillomata.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning For Water Exploration</title>
+      <link>https://lacaudillomata.github.io/project/2019-dl-aquifer-prosp/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/project/2019-dl-aquifer-prosp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
