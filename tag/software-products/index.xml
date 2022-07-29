@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Products | lacaudillomata</title>
+    <link>https://lacaudillomata.github.io/tag/software-products/</link>
+      <atom:link href="https://lacaudillomata.github.io/tag/software-products/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Products</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <title>Software Products</title>
+      <link>https://lacaudillomata.github.io/tag/software-products/</link>
+    </image>
+    
+    <item>
+      <title>5ta Fachada: A System For Automating and Optimizing Steel Roof Manufacturing</title>
+      <link>https://lacaudillomata.github.io/project/2011-quinta-fachada/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.github.io/project/2011-quinta-fachada/</guid>
+      <description>&lt;p&gt;El proyecto consiste en desarrollar un laboratorio virtual (software) que realiza el
+análisis, el cálculo y la optimización de estructuras de acero rolado en frío, así como la cuantificación de los materiales utilizados en la construcción de la techumbre completa.&lt;/p&gt;
+&lt;p&gt;El software está dotado con una interfase de usuario fácil de usar, intuitiva
+y amigable. El análisis estructural considera cargas de peso propio, muertas y vivas a las que estará sometida la estructura en condiciones de servicio, además se consideran los efectos de viento y sismo para la República Mexicana de acuerdo a la normatividad vigente de la Comisión Federal de Electricidad (CFE).&lt;/p&gt;
+&lt;p&gt;El optimizadorestá basado en métodos de minimización de entropía con restricciones múltiples
+evaluando cada una de las estructuras por el método de la rigidez, el cual genera matrices ralas. El sistema de ecuaciones resultante se puede resolver con una variedad
+de métodos directos e iterativos, al respecto de estos últimos, se han implementado
+algoritmos de última generación dentro del software.&lt;/p&gt;
+&lt;p&gt;Cabe mencionar que para la evaluación de la eficiencia de la estructura
+se utiliza la normativa vigente para diseño de elementos de acero rolado en frío
+para la República Mexicana AISI-ASD.&lt;/p&gt;
+&lt;p&gt;La combinación adecuada del seguimiento de las normatividades vigentes, la implementación del optimizador y los métodos matriciales para el cálculo de estructuras, aunado al ambiente grafico fácil de usar y amigable para el usuario final, han resultado en un potente software que
+genera soluciones de vivienda económicas, confiables, seguras y estéticas, favoreciendo
+así a un amplio sector de la sociedad mexicana.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

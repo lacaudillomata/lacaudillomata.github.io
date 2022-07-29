@@ -37,7 +37,6 @@
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/talk/a-deep-learning-approach-to-train-a-bi-temporal-change-detector-for-optical-satellite-imagery/</guid>
       <description>&lt;p&gt;We discuss a deep-learning approach to develop a change detector for optical satellite imagery. The detector forms part of the &lt;em&gt;persistent multi-sensor land surveillance and change monitoring&lt;/em&gt; project funded by the &lt;a href=&#34;https://www.canada.ca/en/department-national-defence/news/2018/12/government-of-canada-announces-contract-awards-aimed-at-improving-space-based-earth-observation-capabilities.html&#34;&gt;Defence Innovation Research Program (DIRP) &lt;/a&gt; and MDA.&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;persistent multi-sensor land surveillance and change monitoring&lt;/em&gt; project leverages the complementarity of Optical and SAR satellite image stacks to better identify and monitor changes over large areas of land. The benefits include more persistent and operational all-weather monitoring capabilities and very high change classification accuracy. To achieve these benefits the project leverages new technologies such as Deep Learning and exploits the availability of large satellite image archives. The applications are far ranging and are expected to provide actionable intelligence to the Department of National Defence of Canada (DND) as well as to civil agencies.&lt;/p&gt;
 </description>
     </item>
     
