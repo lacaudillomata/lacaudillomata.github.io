@@ -701,11 +701,15 @@ electromagnetic problems.&lt;/p&gt;
       <link>https://lacaudillomata.github.io/community/2017-congress-americas/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/community/2017-congress-americas/</guid>
-      <description>&lt;p&gt;Special session (minysimposium) held as part of the Mathematical Congress of the Americas 2017.&lt;/p&gt;
+      <description>&lt;p&gt;Special session (minysimposium) held as part of the &lt;a href=&#34;http://mcofamericas.org/congress&#34; target=&#34;_blank&#34;&gt; Mathematical Congress of the Americas&lt;/a&gt; 2017.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Roles:&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Co-organizer&lt;/li&gt;
 &lt;li&gt;Speaker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Period:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;July, 2016 to August 2017&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br&gt;
 Computational inverse problems are prevalent and essential in various scientific and industrial
@@ -725,6 +729,9 @@ example, speakers will present on new nonlinear optimization approaches, novel r
 techniques, iterative reconstruction techniques (e.g., hybrid methods and preconditioners),
 methods for statistical validation and uncertainty quantification, and the progress on multiscale
 methods and their applications within an inversion procedure.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/0phu6mfl5kwbjcb/mca_programme.pdf?dl=0&#34; target=&#34;_blank&#34;&gt; Conference Program &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -787,15 +794,23 @@ FV method with and without oversampling for a synthetic setting of a large-loop 
       <link>https://lacaudillomata.github.io/community/2017-multiscale-series/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/community/2017-multiscale-series/</guid>
-      <description>&lt;p&gt;Minisymposium held as part of the SIAM Conference on Computational Science and Engineering (CSE17).&lt;/p&gt;
+      <description>&lt;p&gt;Minisymposium held as part of the &lt;a href=&#34;https://archive.siam.org/meetings/cse17/&#34; target=&#34;_blank&#34;&gt;SIAM Conference on Computational Science and Engineering (CSE17)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Roles:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Co-organizer&lt;/li&gt;
 &lt;li&gt;Speaker&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Period:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;August, 2016 - March, 2017&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br&gt;
 Accurate and efficient simulations of physical responses in large-scale heterogeneous media is crucial to search and image geological formations in a wide range of geophysical applications, including mineral and hydrocarbon exploration, water resource utilizations, and geothermal power extractions. One major challenge in practice to perform this type of simulations is the excessive computational cost it involves.&lt;/p&gt;
-&lt;p&gt;In this session we explore ways to reduce the complexity and the cost of the simulation by introducing multiscale and upscaling methods as well as reduce space modeling.&lt;/p&gt;
+&lt;p&gt;In this mini symposium, consisting of two parts, we explore ways to reduce the complexity and the cost of the simulation by introducing multiscale and upscaling methods as well as reduce space modeling.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=61013&#34; target=&#34;_blank&#34;&gt;Mini Symposium Part I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=61014&#34; target=&#34;_blank&#34;&gt;Mini Symposium Part II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -943,7 +958,7 @@ Accurate and efficient simulations of physical responses in large-scale heteroge
       <link>https://lacaudillomata.github.io/community/2014-scaim/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://lacaudillomata.github.io/community/2014-scaim/</guid>
-      <description>&lt;p&gt;The Scientific Computing, Applied and Industrial Mathematics (SCAIM) Seminar is an interdepartmental seminar at the University of British Columbia (UBC) focused on research in scientific computing, industrial and applied mathematics, mathematical modelling, and computational science.&lt;/p&gt;
+      <description>&lt;p&gt;The &lt;a href=&#34;https://sites.google.com/site/ubcscaim/&#34; target=&#34;_blank&#34;&gt;Scientific Computing, Applied and Industrial Mathematics (SCAIM) Seminar&lt;/a&gt; is an interdepartmental seminar at the University of British Columbia (UBC) focused on research in scientific computing, industrial and applied mathematics, mathematical modelling, and computational science.&lt;/p&gt;
 &lt;p&gt;The audience for the talks are typically faculty members and graduate students from the departments of Computer Science, Earth, Ocean and Atmospheric Sciences, Mathematics, Mechanical Engineering, and Physics &amp;amp; Astronomy.  The speakers are researchers from UBC or other institutions.&lt;/p&gt;
 &lt;p&gt;The seminar was held every 2 weeks.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;&lt;/p&gt;
@@ -953,13 +968,13 @@ Accurate and efficient simulations of physical responses in large-scale heteroge
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Period:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;From September 1st, 2014 to June 30th, 2016&lt;/li&gt;
+&lt;li&gt;September 1st, 2014 to June 30th, 2016&lt;/li&gt;
 &lt;li&gt;Organized 34 seminars&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Seminars:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ubcscaim/archive/scaim-seminars-2014-2015&#34;&gt;2014-2015 Seminars &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ubcscaim/archive/scaim-seminars-2015-2016&#34;&gt;2015-2016 Seminars &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ubcscaim/archive/scaim-seminars-2014-2015&#34; target=&#34;_blank&#34;&gt;SCAIM Seminars Series 2014-2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/ubcscaim/archive/scaim-seminars-2015-2016&#34; target=&#34;_blank&#34;&gt;SCAIM Seminars Series 2015-2016&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
