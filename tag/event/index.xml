@@ -54,10 +54,14 @@
 &lt;ul&gt;
 &lt;li&gt;Organizer&lt;/li&gt;
 &lt;li&gt;Facilitator&lt;/li&gt;
+&lt;li&gt;Speaker&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br&gt;
 In this panel, alumni of graduate programs in mathematics, computer science, and statistics share how they successfully transitioned from academia into industrial positions in the areas of machine learning, AI, and data science. After learning from the story of each of our four panelists, we’ll have an extensive Q&amp;amp;A session.&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://videos.files.wordpress.com/dpbMZuOt/cih-ii-2b_hd.mp4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;figure&gt;
+  &lt;iframe src=&#34;https://videos.files.wordpress.com/dpbMZuOt/cih-ii-2b_hd.mp4&#34; width=&#34;700&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;figcaption&gt;Panel discussion.&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -90,8 +94,10 @@ The purpose of this panel is to show participants of the summer school the diver
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Resumen:&lt;/strong&gt; &lt;br&gt;
 Foro para intercambiar opiniones en temas relacionados a experiencias de contratación y re-incorporación de científicos mexicanos a instituciones de investigación mexicanas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Organizadores:&lt;/strong&gt;
-&lt;img src=&#34;organizadores.png&#34;&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;organizadores.png&#34; width=&#34;700&#34;&gt;
+  &lt;figcaption&gt;Foro organizers.&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -108,8 +114,10 @@ Foro para intercambiar opiniones en temas relacionados a experiencias de contrat
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Resumen:&lt;/strong&gt; &lt;br&gt;
 Panel centrado en discutir temas relacionados a intercambio, mobilidad, y reincorporación de científicos mexicanos en áreas matemáticas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Organizadoras:&lt;/strong&gt;
-&lt;img src=&#34;organizadoras.png&#34;&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;organizadoras.png&#34; width=&#34;700&#34;&gt;
+  &lt;figcaption&gt;Panel organizers.&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -128,8 +136,10 @@ This panel discusses open-source software and explore its interaction with the w
 &lt;p&gt;There are questions about the implementation and functioning of an open-source community: How do developers engage with the community? How are new contributors/users on-boarded? What lessons can you offer to those who are involved in other open-source initiatives?&lt;/p&gt;
 &lt;p&gt;Attribution for software contributions is an immature topic that is particularly important for early-career scientists and relevant to tenure track, hiring, and proposal review panels. How should the scientific community recognize these contributions?&lt;/p&gt;
 &lt;p&gt;Wrestling with these questions is perhaps one of the main reasons why open-source products are still relatively rare; we explore these questions in the panel discussion.&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34;
-src=&#34;https://www.youtube.com/embed/0GO4ZZ5Ry6M&#34; frameborder=&#34;0&#34; allowfullscree&gt;&lt;/iframe&gt;
+&lt;figure&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/0GO4ZZ5Ry6M&#34; width=&#34;700&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowfullscree&gt;&lt;/iframe&gt;
+  &lt;figcaption&gt;Panel discussion.&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
