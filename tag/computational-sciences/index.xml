@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational Sciences | lacaudillomata</title>
-    <link>https://lacaudillomata.github.io/tag/computational-sciences/</link>
-      <atom:link href="https://lacaudillomata.github.io/tag/computational-sciences/index.xml" rel="self" type="application/rss+xml" />
+    <title>Computational Sciences | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/tag/computational-sciences/</link>
+      <atom:link href="https://lacaudillomata.com/tag/computational-sciences/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational Sciences</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>Computational Sciences</title>
-      <link>https://lacaudillomata.github.io/tag/computational-sciences/</link>
+      <link>https://lacaudillomata.com/tag/computational-sciences/</link>
     </image>
     
     <item>
       <title>Multiscale Methods For Geophysical Electromagnetics Modeling</title>
-      <link>https://lacaudillomata.github.io/project/2017-multiscale/</link>
+      <link>https://lacaudillomata.com/project/2017-multiscale/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/project/2017-multiscale/</guid>
+      <guid>https://lacaudillomata.com/project/2017-multiscale/</guid>
       <description>&lt;p&gt;The focus of this investigation is to study how to reduce the computational cost
 of simulating the behavior of electromagnetic fields in complicated geophysical
 settings. This type of simulations are crucial to the exploration of buried natural
@@ -31,9 +31,9 @@ electromagnetic problems.&lt;/p&gt;
     
     <item>
       <title>Upscaling Methods For Geophysical Electromagnetics Modeling</title>
-      <link>https://lacaudillomata.github.io/project/2017-upscaling/</link>
+      <link>https://lacaudillomata.com/project/2017-upscaling/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/project/2017-upscaling/</guid>
+      <guid>https://lacaudillomata.com/project/2017-upscaling/</guid>
       <description>&lt;p&gt;The focus of this investigation is to study how to reduce the computational cost
 of simulating the behavior of electromagnetic fields in complicated geophysical
 settings. This type of simulations are crucial to the exploration of buried natural
@@ -48,9 +48,9 @@ electromagnetic problems.&lt;/p&gt;
     
     <item>
       <title>5ta Fachada: A System For Automating and Optimizing Steel Roof Manufacturing</title>
-      <link>https://lacaudillomata.github.io/project/2011-quinta-fachada/</link>
+      <link>https://lacaudillomata.com/project/2011-quinta-fachada/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/project/2011-quinta-fachada/</guid>
+      <guid>https://lacaudillomata.com/project/2011-quinta-fachada/</guid>
       <description>&lt;p&gt;El proyecto consiste en desarrollar un laboratorio virtual (software) que realiza el
 análisis, el cálculo y la optimización de estructuras de acero rolado en frío, así como la cuantificación de los materiales utilizados en la construcción de la techumbre completa.&lt;/p&gt;
 &lt;p&gt;El software está dotado con una interfase de usuario fácil de usar, intuitiva

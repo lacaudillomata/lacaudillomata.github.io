@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | lacaudillomata</title>
-    <link>https://lacaudillomata.github.io/publication-type/2/</link>
-      <atom:link href="https://lacaudillomata.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/publication-type/2/</link>
+      <atom:link href="https://lacaudillomata.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://lacaudillomata.github.io/publication-type/2/</link>
+      <link>https://lacaudillomata.com/publication-type/2/</link>
     </image>
     
     <item>
       <title>The mimetic multiscale method for Maxwell’s equations</title>
-      <link>https://lacaudillomata.github.io/publication/2018-mimetic-ms/</link>
+      <link>https://lacaudillomata.com/publication/2018-mimetic-ms/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2018-mimetic-ms/</guid>
+      <guid>https://lacaudillomata.com/publication/2018-mimetic-ms/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Publication use is subject to SEG terms of use and conditions.
@@ -27,33 +27,33 @@
     
     <item>
       <title>An oversampling technique for the multiscale finite volume method to simulate electromagnetic responses in the frequency domain</title>
-      <link>https://lacaudillomata.github.io/publication/2016-oversampling-ms/</link>
+      <link>https://lacaudillomata.com/publication/2016-oversampling-ms/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-ms/</guid>
+      <guid>https://lacaudillomata.com/publication/2016-oversampling-ms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Framework for the Upscaling of the Electrical Conductivity in the Quasi-static Maxwell&#39;s Equations</title>
-      <link>https://lacaudillomata.github.io/publication/2016-upscaling/</link>
+      <link>https://lacaudillomata.com/publication/2016-upscaling/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2016-upscaling/</guid>
+      <guid>https://lacaudillomata.com/publication/2016-upscaling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A low computational cost numerical method for solving mixed diffusion problems</title>
-      <link>https://lacaudillomata.github.io/publication/2007-diffussion/</link>
+      <link>https://lacaudillomata.com/publication/2007-diffussion/</link>
       <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2007-diffussion/</guid>
+      <guid>https://lacaudillomata.com/publication/2007-diffussion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A low computational cost numerical method for solving mixed diffusion problems</title>
-      <link>https://lacaudillomata.github.io/publication/2004-diffusion/</link>
+      <link>https://lacaudillomata.com/publication/2004-diffusion/</link>
       <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2004-diffusion/</guid>
+      <guid>https://lacaudillomata.com/publication/2004-diffusion/</guid>
       <description></description>
     </item>
     

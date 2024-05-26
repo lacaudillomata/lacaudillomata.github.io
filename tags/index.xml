@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | lacaudillomata</title>
-    <link>https://lacaudillomata.github.io/tags/</link>
-      <atom:link href="https://lacaudillomata.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/tags/</link>
+      <atom:link href="https://lacaudillomata.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://lacaudillomata.github.io/tags/</link>
+      <link>https://lacaudillomata.com/tags/</link>
     </image>
     
   </channel>

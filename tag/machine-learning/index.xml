@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | lacaudillomata</title>
-    <link>https://lacaudillomata.github.io/tag/machine-learning/</link>
-      <atom:link href="https://lacaudillomata.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Machine Learning | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/tag/machine-learning/</link>
+      <atom:link href="https://lacaudillomata.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
-      <link>https://lacaudillomata.github.io/tag/machine-learning/</link>
+      <link>https://lacaudillomata.com/tag/machine-learning/</link>
     </image>
     
     <item>
       <title>Behaviour Analytics For Time Series of Multi-Sensor Geospatial Data</title>
-      <link>https://lacaudillomata.github.io/project/2021-behaviour-analytics/</link>
+      <link>https://lacaudillomata.com/project/2021-behaviour-analytics/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/project/2021-behaviour-analytics/</guid>
+      <guid>https://lacaudillomata.com/project/2021-behaviour-analytics/</guid>
       <description>&lt;p&gt;We develop a statistical framework that integrates machine learning (deep learning) and classical change-detection techniques for monitoring changes in stationary objects and fusing multi-sensor geospatial data.&lt;/p&gt;
 &lt;p&gt;The framework consist of several analytical components that form part of the projects:&lt;/p&gt;
 &lt;ul&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Deep Learning For Change Detection in Satellite Images</title>
-      <link>https://lacaudillomata.github.io/project/2020-change-detection/</link>
+      <link>https://lacaudillomata.com/project/2020-change-detection/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/project/2020-change-detection/</guid>
+      <guid>https://lacaudillomata.com/project/2020-change-detection/</guid>
       <description>&lt;p&gt;We devise a deep-learning approach to develop a change detector for high-resolution Electro-Optical satellite imagery.&lt;/p&gt;
 &lt;p&gt;The detector forms part of the &lt;em&gt;persistent multi-sensor land surveillance and change monitoring&lt;/em&gt;project funded by the &lt;a href=&#34;https://www.canada.ca/en/department-national-defence/news/2018/12/government-of-canada-announces-contract-awards-aimed-at-improving-space-based-earth-observation-capabilities.html&#34;&gt;Defence Innovation Research Program (DIRP) &lt;/a&gt; and MDA.&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;persistent multi-sensor land surveillance and change monitoring&lt;/em&gt; project leverages the complementarity of Optical and SAR satellite image stacks to better identify and monitor changes over large areas of land. The benefits include more persistent and operational all-weather monitoring capabilities and very high change classification accuracy. To achieve these benefits the project leverages new technologies such as Deep Learning and exploits the availability of large satellite image archives. The applications are far ranging and are expected to provide actionable intelligence to the Department of National Defence of Canada (DND) as well as to civil agencies.&lt;/p&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>Deep Learning For Water Exploration</title>
-      <link>https://lacaudillomata.github.io/project/2019-dl-aquifer-prosp/</link>
+      <link>https://lacaudillomata.com/project/2019-dl-aquifer-prosp/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/project/2019-dl-aquifer-prosp/</guid>
+      <guid>https://lacaudillomata.com/project/2019-dl-aquifer-prosp/</guid>
       <description>&lt;p&gt;A use case to demonstrate AI-based technology developed for water exploration.&lt;/p&gt;
 </description>
     </item>

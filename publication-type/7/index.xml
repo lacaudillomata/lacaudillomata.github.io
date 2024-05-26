@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>7 | lacaudillomata</title>
-    <link>https://lacaudillomata.github.io/publication-type/7/</link>
-      <atom:link href="https://lacaudillomata.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <title>7 | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/publication-type/7/</link>
+      <atom:link href="https://lacaudillomata.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>7</title>
-      <link>https://lacaudillomata.github.io/publication-type/7/</link>
+      <link>https://lacaudillomata.com/publication-type/7/</link>
     </image>
     
     <item>
       <title>Multiscale and upscaling methods for geophysical electromagnetic forward modeling</title>
-      <link>https://lacaudillomata.github.io/publication/2017-phd-thesis/</link>
+      <link>https://lacaudillomata.com/publication/2017-phd-thesis/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2017-phd-thesis/</guid>
+      <guid>https://lacaudillomata.com/publication/2017-phd-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identificación de parámetros de un acuífero no confinado utilizando el método del sistema diferencial modificado formulado con elementos finitos</title>
-      <link>https://lacaudillomata.github.io/publication/2008-msc-thesis/</link>
+      <link>https://lacaudillomata.com/publication/2008-msc-thesis/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2008-msc-thesis/</guid>
+      <guid>https://lacaudillomata.com/publication/2008-msc-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Un método de autofunciones para resolución numérica de problemas parabólicos mixtos de segundo orden</title>
-      <link>https://lacaudillomata.github.io/publication/2004-bsc-thesis/</link>
+      <link>https://lacaudillomata.com/publication/2004-bsc-thesis/</link>
       <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2004-bsc-thesis/</guid>
+      <guid>https://lacaudillomata.com/publication/2004-bsc-thesis/</guid>
       <description></description>
     </item>
     

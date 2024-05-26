@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | lacaudillomata</title>
-    <link>https://lacaudillomata.github.io/publication-type/1/</link>
-      <atom:link href="https://lacaudillomata.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <title>1 | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/publication-type/1/</link>
+      <atom:link href="https://lacaudillomata.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lacaudillomata.github.io/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://lacaudillomata.github.io/publication-type/1/</link>
+      <link>https://lacaudillomata.com/publication-type/1/</link>
     </image>
     
     <item>
       <title>An oversampling technique for multiscale finite volume method to simulate frequency-domain electromagnetic responses</title>
-      <link>https://lacaudillomata.github.io/publication/2016-oversampling-abstract/</link>
+      <link>https://lacaudillomata.com/publication/2016-oversampling-abstract/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-abstract/</guid>
+      <guid>https://lacaudillomata.com/publication/2016-oversampling-abstract/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Publication use is subject to SEG terms of use and conditions.
@@ -27,17 +27,17 @@
     
     <item>
       <title>A Multiscale Finite Volume Method with Oversampling for Geophysical Electromagnetic Simulations</title>
-      <link>https://lacaudillomata.github.io/publication/2016-oversampling-abstract-b/</link>
+      <link>https://lacaudillomata.com/publication/2016-oversampling-abstract-b/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2016-oversampling-abstract-b/</guid>
+      <guid>https://lacaudillomata.com/publication/2016-oversampling-abstract-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical upscaling of electrical conductivity: A problem specific approach to generate coarse-scale models</title>
-      <link>https://lacaudillomata.github.io/publication/2014-upscaling/</link>
+      <link>https://lacaudillomata.com/publication/2014-upscaling/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.github.io/publication/2014-upscaling/</guid>
+      <guid>https://lacaudillomata.com/publication/2014-upscaling/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Publication use is subject to SEG terms of use and conditions.
