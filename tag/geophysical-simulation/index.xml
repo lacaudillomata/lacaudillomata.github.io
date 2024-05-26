@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geophysical Simulation | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/tag/geophysical-simulation/</link>
+      <atom:link href="https://lacaudillomata.com/tag/geophysical-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geophysical Simulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <title>Geophysical Simulation</title>
+      <link>https://lacaudillomata.com/tag/geophysical-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Multiscale Methods For Geophysical Electromagnetics Modeling</title>
+      <link>https://lacaudillomata.com/project/2017-multiscale/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/project/2017-multiscale/</guid>
+      <description>&lt;p&gt;The focus of this investigation is to study how to reduce the computational cost
+of simulating the behavior of electromagnetic fields in complicated geophysical
+settings. This type of simulations are crucial to the exploration of buried natural
+resources (mineral, groundwater and hydrocarbon deposits) using electromagnetic methods. However, the size of the computation they involve often exceeds
+the limits of average computers.&lt;/p&gt;
+&lt;p&gt;This investigation proposes innovative mathematical alternatives — multiscale finite elements and finite volume methods — that achieve a great reduction of the problem’s size and the simulation cost without sacrificing much accuracy. It also opens the door to use such alternatives to create more powerful computational engines capable of simulating electromagnetic fields in larger and more complex geophysical settings than currently
+is possible.&lt;/p&gt;
+&lt;p&gt;This project was done as part of my doctoral dissertation. To provide more context, this study was the first one in the literature to demonstrate the practical use of the proposed alternatives in the context of geophysical
+electromagnetic problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upscaling Methods For Geophysical Electromagnetics Modeling</title>
+      <link>https://lacaudillomata.com/project/2017-upscaling/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/project/2017-upscaling/</guid>
+      <description>&lt;p&gt;The focus of this investigation is to study how to reduce the computational cost
+of simulating the behavior of electromagnetic fields in complicated geophysical
+settings. This type of simulations are crucial to the exploration of buried natural
+resources (mineral, groundwater and hydrocarbon deposits) using electromagnetic methods. However, the size of the computation they involve often exceeds
+the limits of average computers.&lt;/p&gt;
+&lt;p&gt;This investigation proposes innovative mathematical alternatives — upscaling finite elements and finite volume methods — that achieve a great reduction of the problem’s size and the simulation cost without sacrificing much accuracy. It also opens the door to use such alternatives to create more powerful computational engines capable of simulating electromagnetic fields in larger and more complex geophysical settings than currently
+is possible.&lt;/p&gt;
+&lt;p&gt;This project was done as part of my doctoral dissertation. To provide more context, this study was the first one in the literature to demonstrate the practical use of the proposed alternatives in the context of geophysical
+electromagnetic problems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
