@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series | Dr. Luz Angélica Caudillo Mata</title>
-    <link>https://lacaudillomata.com/tag/series/</link>
-      <atom:link href="https://lacaudillomata.com/tag/series/index.xml" rel="self" type="application/rss+xml" />
-    <description>Series</description>
+    <title>Symposium | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/tag/symposium/</link>
+      <atom:link href="https://lacaudillomata.com/tag/symposium/index.xml" rel="self" type="application/rss+xml" />
+    <description>Symposium</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
-      <title>Series</title>
-      <link>https://lacaudillomata.com/tag/series/</link>
+      <title>Symposium</title>
+      <link>https://lacaudillomata.com/tag/symposium/</link>
     </image>
     
     <item>

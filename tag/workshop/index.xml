@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/tag/workshop/</link>
+      <atom:link href="https://lacaudillomata.com/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <title>Workshop</title>
+      <link>https://lacaudillomata.com/tag/workshop/</link>
+    </image>
+    
+    <item>
+      <title>AAAI-21 LatinXperiences Workshop</title>
+      <link>https://lacaudillomata.com/community/2021-latinxperiences/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/community/2021-latinxperiences/</guid>
+      <description>&lt;p&gt;This workshop was one of the accepted diversity and inclusion activities at the &lt;a href=https://aaai.org/Conferences/AAAI-21/&gt; AAAI-21 conference. &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Roles:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-organizer&lt;/li&gt;
+&lt;li&gt;Facilitator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;LatinXperiences is an event that strives to create new and lasting connections between established researchers, at top-tier universities and research laboratories, and early-career researchers and students from Latin American countries.&lt;/p&gt;
+&lt;p&gt;There are thriving research and tech communities in Latin America that, for the most part, do not interact with the AAAI community. Our goal is to bring these communities together in a welcoming, social environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
