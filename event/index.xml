@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Past &amp; Upcoming Talks | Dr. Luz Angélica Caudillo Mata</title>
+    <title>Past &amp; Upcoming Presentations | Dr. Luz Angélica Caudillo Mata</title>
     <link>https://lacaudillomata.com/event/</link>
       <atom:link href="https://lacaudillomata.com/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Past &amp; Upcoming Talks</description>
+    <description>Past &amp; Upcoming Presentations</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
-      <title>Past &amp; Upcoming Talks</title>
+      <title>Past &amp; Upcoming Presentations</title>
       <link>https://lacaudillomata.com/event/</link>
     </image>
     
