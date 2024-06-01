@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community of Practice | Dr. Luz Angélica Caudillo Mata</title>
+    <link>https://lacaudillomata.com/tag/community-of-practice/</link>
+      <atom:link href="https://lacaudillomata.com/tag/community-of-practice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Community of Practice</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
+      <title>Community of Practice</title>
+      <link>https://lacaudillomata.com/tag/community-of-practice/</link>
+    </image>
+    
+    <item>
+      <title>MDA Space Community of Practice on Machine Learning System Design</title>
+      <link>https://lacaudillomata.com/initiative/2022-cop-mlsd/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/initiative/2022-cop-mlsd/</guid>
+      <description>&lt;p&gt;This community of practice is organized within the Geointelligence Engineering Department at &lt;a href=&#34;https://mda.space/&#34;&gt;MDA&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; &lt;br&gt;
+Working group of engineers (software, systems), product developers and technology experts to shares best practices and knowledge on Machine Learning System Design in the context of next-generation Geointelligence products and services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Roles:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Founder&lt;/li&gt;
+&lt;li&gt;Manager and Lead&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Period:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;June, 2022 - Present&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
