@@ -1,93 +1,191 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Dr. Luz Angélica Caudillo Mata</title>
+    <title>Media | Dr. Luz Angélica Caudillo Mata</title>
     <link>https://lacaudillomata.com/post/</link>
       <atom:link href="https://lacaudillomata.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <description>Media</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lacaudillomata.com/media/icon_hu744bacd88a4336fd6cdb18452799d0a4_39022_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
+      <title>Media</title>
       <link>https://lacaudillomata.com/post/</link>
     </image>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://lacaudillomata.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://lacaudillomata.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+      <title>Finalist — Women in AI North America Awards 2025: AI in Industry Award, Innovator of the Year (Private Sector)</title>
+      <link>https://lacaudillomata.com/post/2025-03-31-wai-na-awards/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2025-03-31-wai-na-awards/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m thrilled to announce that I&amp;rsquo;ve been named a finalist for the Women in AI North America Awards 2025, in the category AI in Industry Award - Innovator of the Year Private Sector.&lt;/p&gt;
+&lt;p&gt;The Women in AI North America Awards honor top female innovators, researchers, and leaders in artificial intelligence across Canada, Mexico, and USA. Being selected as a finalist in the AI Industry Award - Innovator of the Year Private Sector category recognizes significant contributions and leadership in AI within the private sector. The awards ceremony will take place on June 6th, 2025 in Toronto, Canada, celebrating the achievements of women shaping the future of AI.&lt;/p&gt;
+&lt;p&gt;For more information about the awards and to view the full list of finalists, visit the &lt;a href= &#34;https://www.womeninai.co/post/finalists-announced-for-women-in-ai-awards-north-america-2025&#34;&gt; official finalists announcement in the Women in AI website. &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Featured in The Logic — CIFAR Summer School as a Launchpad for Future AI Leaders</title>
+      <link>https://lacaudillomata.com/post/2024-08-09-dlrl-logic-news/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2024-08-09-dlrl-logic-news/</guid>
+      <description>&lt;p&gt;I was included in The Logic&amp;rsquo;s article titled “Future leaders: Inside the Canadian summer school that’s a global hothouse for AI talent”.&lt;/p&gt;
+&lt;p&gt;The article reflects on 20 years of the CIFAR Deep Learning + Reinforcement Learning Summer School and its role in shaping global AI leadership. The piece highlights past and present participants, including my own path from academic research to AI leadership at MDA Space, as examples of the school’s lasting impact.&lt;/p&gt;
+&lt;p&gt;The Logic article: &lt;a href=&#34;https://thelogic.co/news/the-big-read/cifar-canada-ai-talent/&#34;&gt;read it here &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Panelist — CIFAR DLRL 20th Anniversary Alumni Panel: Charting Your Path in AI</title>
+      <link>https://lacaudillomata.com/post/2024-07-24-cifar-dlrl-panelist/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2024-07-24-cifar-dlrl-panelist/</guid>
+      <description>&lt;p&gt;I was honored to join fellow alumni as a panelist at the 20th-anniversary edition of the CIFAR Deep Learning + Reinforcement Learning Summer School. The panel, Charting Your Path in AI, brought together voices across academia and industry to reflect on our respective career journeys in AI.&lt;/p&gt;
+&lt;p&gt;The DLRL Summer School has been a pivotal platform for fostering the next generation of AI talent, bringing together nearly 200 trainees from 25 countries for ten days of intensive learning and networking. The 20th-anniversary celebration underscored the program&amp;rsquo;s enduring impact on the global AI community.&lt;/p&gt;
+&lt;p&gt;For more details on the event and its significance, please refer to &lt;a href=&#34;https://cifar.ca/cifarnews/2024/07/24/twentieth-edition-of-cifars-deep-learning-reinforcement-learning-summer-school-brings-the-worlds-top-ai-talent-to-canada/&#34;&gt;CIFAR&amp;rsquo;s official post.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited Industry Contributor - CIFAR Symposium on AI for Energy &amp; the Environment</title>
+      <link>https://lacaudillomata.com/post/2023-04-19-cifar-ai-symposium/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2023-04-19-cifar-ai-symposium/</guid>
+      <description>&lt;p&gt;I was honored to contribute thought leadership as an invited industry participant at CIFAR’s AI for Energy &amp;amp; the Environment Symposium.&lt;/p&gt;
+&lt;p&gt;The symposium is a collaborative workshop bringing together leaders from academia, government, industry, and philanthropy to guide the next phase of the Pan-Canadian AI Strategy. I shared insights on the role of AI in sustainable innovation and was featured in the official symposium video.&lt;/p&gt;
+&lt;p&gt;Insights from the symposium were captured in a final report outlining key recommendations for advancing AI in sustainable energy and environmental stewardship.&lt;/p&gt;
+&lt;p&gt;Read more: &lt;a href=&#34;https://cifar.ca/cifarnews/2023/04/19/cifar-hosts-ai-for-energy-the-environment-symposium/&#34;&gt;CIFAR Blog Post. &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Final Report: &lt;a href=&#34;https://cifar.ca/wp-content/uploads/2023/05/CIFARAI4EEReport_EN.pdf&#34;&gt;CIFAR Symposium on
+AI for Energy and the Environment (June 2023)&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;center&gt;&lt;iframe width=&#34;700&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/MoTJvnDA1Bg&#34; frameborder=&#34;0&#34; allowfullscree&gt;&lt;/iframe&gt;&lt;/center&gt;
+  &lt;figcaption&gt;3-min video AI for Energy &amp; the Environment Symposium.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Podcast Guest - AI The New Sexy: Aplicaciones de Geointeligencia</title>
+      <link>https://lacaudillomata.com/post/2022-05-02-podcast/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2022-05-02-podcast/</guid>
+      <description>&lt;p&gt;Fui invitada al pódcast AI The New Sexy para conversar sobre mi trayectoria profesional y las aplicaciones de la inteligencia artificial en el campo de la geointeligencia. Hablamos sobre cómo la IA se aplica en la observación terrestre, el monitoreo ambiental, y cómo estas tecnologías pueden beneficiar a la sociedad. También compartí mi experiencia trabajando en Canadá, y mi participación en iniciativas comunitarias en IA.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;center&gt;&lt;iframe width=&#34;700&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/QN9QZmyWVHs&#34; frameborder=&#34;0&#34; allowfullscree&gt;&lt;/iframe&gt;&lt;/center&gt;
+  &lt;figcaption&gt;Conversando sobre Geo AI y mi trayectoria profesional en el pódcast AI The New Sexy.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lathisms Calendar Honoree — Celebrating Latinx Excellence in Mathematics (2021)</title>
+      <link>https://lacaudillomata.com/post/2021-09-26-lathisms-honoree/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2021-09-26-lathisms-honoree/</guid>
+      <description>&lt;p&gt;I was honored to be featured as a 2021 Honoree in the Lathisms Calendar, an initiative that celebrates the contributions of outstanding Latinx and Hispanic mathematicians to the mathematical sciences. This recognition highlights excellence not only in research and teaching, but also in mentorship and efforts to promote diversity and inclusion in STEM. The calendar serves as a platform to elevate visible role models and inspire the next generation of mathematicians.&lt;/p&gt;
+&lt;p&gt;View my feature: &lt;a href=&#34;https://www.lathisms.org/calendar-2021s/luz-angelica-caudillo-mata&#34;&gt;Lathisms 2021 Calendar — Luz Angelica Caudillo Mata &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See all 2021 honorees: &lt;a href=&#34;https://www.lathisms.org/calendars/calendar-2021&#34;&gt;Lathisms 2021 Full Calendar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selected Participant — Facebook F8 Hackathon &amp; Developer Conference (2019)</title>
+      <link>https://lacaudillomata.com/post/2019-04-28-f8-hackathon/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2019-04-28-f8-hackathon/</guid>
+      <description>&lt;p&gt;I was honored to be selected as one of only 200 participants (from over 4,000 applicants worldwide) to attend the F8 Hackathon, part of Facebook’s annual developer conference. The event brought together developers from across the globe in a vibrant and collaborative atmosphere to build tech-driven solutions for social good. I joined an incredible team under the name #StrongerTogether, and we formed not only a strong project but also lasting friendships.&lt;/p&gt;
+&lt;p&gt;Special thanks to the organizers, particularly Joe Darko, for the outstanding leadership and flawless execution of the hackathon, and to Meta for the travel award that supported my participation. I’m truly grateful for this energizing experience and proud to contribute to projects with meaningful impact.&lt;/p&gt;
+&lt;p&gt;View our project: &lt;a href=&#34;https://devpost.com/software/strongertogether&#34;&gt;#StrongerTogether Hackathon Submision&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;zuck_at_hackathon.jpeg&#34; width=&#34;550&#34;&gt;
+  &lt;figcaption&gt;Mark Zuckerberg attending the F8 Hackathon, stopping by to see what teams were building.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recognized as a 2019 Rising Star in Computational &amp; Data Sciences</title>
+      <link>https://lacaudillomata.com/post/2019-04-09-rising-star/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2019-04-09-rising-star/</guid>
+      <description>&lt;p&gt;I was honored to be selected as a Rising Star in Computational and Data Sciences in 2019, a highly competitive program hosted by the Oden Institute for Computational Engineering and Sciences at UT Austin, in partnership with Sandia and Lawrence Livermore National Laboratories. With an acceptance rate of just 21% that year, the workshop brought together top early-career researchers in computational and data science for an intensive program of research presentations, career development sessions, and community building, all aimed at shaping the next generation of academic and research leaders.&lt;/p&gt;
+&lt;p&gt;About the program: &lt;a href=&#34;https://risingstars.oden.utexas.edu/
+&#34;&gt;Rising Stars in Computational &amp;amp; Data Sciences &lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;luz_lecturing.jpg&#34; width=&#34;550&#34;&gt;
+  &lt;figcaption&gt;Me giving my research talk at the RS 2019 workshop.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;panoramic.jpg&#34; height=&#34;700&#34;&gt;
+  &lt;figcaption&gt;Panoramic view of the 2019 RS workshop, with Prof. Karen Willcox (UT Austin) delivering the welcome address.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;tammy_workshop.jpg&#34; height=&#34;700&#34;&gt;
+  &lt;figcaption&gt;Prof. Karen Willcox introduces Dr. Tammy Kolda (Sandia National Labs) for her talk, “Achieving Your Potential to Become a World-Class Researcher,” during the professional development session.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selected Attendee — Facebook F8 Developer Conference (2018)</title>
+      <link>https://lacaudillomata.com/post/2018-05-01-f8-scholarship/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2018-05-01-f8-scholarship/</guid>
+      <description>&lt;p&gt;I was selected to attend the Facebook F8 Developers Conference and was granted a travel award by the Lean In Computer Science &amp;amp; Engineering Student Chapter. Held in San Jose, California, the conference brought together a global community of developers and innovators to explore the future of technology across platforms such as AI, AR/VR, and data privacy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Featured Poster Presenter - NERSC, Berkely National Lab (2016)</title>
+      <link>https://lacaudillomata.com/post/2016-08-04-lbl-summer-students/</link>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2016-08-04-lbl-summer-students/</guid>
+      <description>&lt;p&gt;As a research intern at the &lt;a href=&#34;https://www.nersc.gov/&#34;&gt;National Energy Research Scientific Computing Center (NERSC)&lt;/a&gt; at Lawrence Berkeley National Laboratory, I presented a poster on high-performance computational methods for geophysical modeling. This work, conducted during my PhD at the University of British Columbia, explored scalable approaches for scientific computing and contributed to research efforts at NERSC. Sharing this work in a leading national lab environment was an incredibly valuable and formative experience.&lt;/p&gt;
+&lt;p&gt;View the post: &lt;a href=&#34;https://www.facebook.com/photo?fbid=1133176973408902&amp;set=luz-angelica-university-of-british-columbia-presents-her-poster-high-performance&#34;&gt;Facebook - Berkely Lab Poster Presentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Learn about the program: &lt;a href=&#34;https://cs.lbl.gov/news-and-events/summer-program/&#34;&gt; Berkely Lab Computing Sciences Summer Student Program &lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured1.jpeg&#34; width=&#34;550&#34;&gt;
+  &lt;figcaption&gt;Showcasing my research during the Summer Poster Session at Berkeley Lab, one of the most anticipated events in Computing Sciences, where interns present their work in person. I had the opportunity to share my work with several attendees, including Dr. Osni Marques, Summer Program Chair, and other distinguished NERSC researchers.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Poster Symposium Awardee - Lawrence Livermore National Lab (2015)</title>
+      <link>https://lacaudillomata.com/post/2015-08-11-llnl-summer-award/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2015-08-11-llnl-summer-award/</guid>
+      <description>&lt;p&gt;During my 2015 internship at the &lt;a href=&#34;https://computing.llnl.gov/casc&#34;&gt;Center for Applied Scientific Computing (CASC)&lt;/a&gt; at Lawrence Livermore National Laboratory (LLNL), I was honored with a Special Recognition Award at the annual Student Poster Symposium for my project titled &amp;ldquo;Numerical Upscaling of Maxwell’s Equations.&amp;rdquo; This symposium, the largest to date with over 250 participants, showcased the collaborative research efforts between students and LLNL mentors across various scientific and technical disciplines.  Only 11% of the presenters got an award.&lt;/p&gt;
+&lt;p&gt;The recognition highlighted the significance of my work in computational electromagnetics and underscored LLNL&amp;rsquo;s commitment to fostering emerging talent in STEM fields. I am grateful for the mentorship and support received during this experience, which has been instrumental in my professional development.&lt;/p&gt;
+&lt;p&gt;Read more: &lt;a href=&#34;https://www.llnl.gov/article/41401/students-shine-summer-poster-symposium&#34;&gt; LLNL News — Students Shine at Summer Poster Symposium &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recipient of the Technological Innovation Award for &#39;5ta Fachada&#39; - Granted by the Science and Technology Council of the State of Guanajuato (CONCYTEG, 2010)</title>
+      <link>https://lacaudillomata.com/post/2011-08-27-5ta-fachada/</link>
+      <pubDate>Fri, 27 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://lacaudillomata.com/post/2011-08-27-5ta-fachada/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Ganadora del Premio a la Innovación Tecnológica por “5ta Fachada” — Otorgado por CONCyTEG y el Gobierno del Estado de Guanajuato (2010)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Durante mi trabajo en la primera etapa del proyecto &amp;ldquo;5ta Fachada” (2009–2010), como parte de un equipo multidisciplinario entre el &lt;a href=&#34;https://www.cimat.mx/&#34;&gt;Centro de Investigación en Matemáticas (CIMAT)&lt;/a&gt; y la empresa &lt;a href=&#34;https://www.tejaselaguila.com/&#34;&gt;Tejas el Águila&lt;/a&gt;, contribuí al desarrollo de un software innovador que optimiza el diseño estructural y la visualización 3D de techos pre-armados. Este software, conocido como 5ta Fachada, permite simulaciones estructurales, optimización de materiales, cálculo de costos, y cumple con normativas de construcción.&lt;/p&gt;
+&lt;p&gt;El proyecto fue galardonado con el Primer Lugar en la categoría de Innovación Tecnológica para Empresarios y Emprendedores (subcategoría senior) en el Tercer Premio a la Innovación Tecnológica Guanajuato 2010, reconociendo su alto impacto técnico y comercial.&lt;/p&gt;
+&lt;p&gt;Me desempeñé como sublíder técnica del proyecto, encargándome del diseño de la interfaz gráfica, la base de datos y la coordinación del equipo para asegurar el cumplimiento de los objetivos técnicos y de desarrollo.&lt;/p&gt;
+&lt;p&gt;Leer estudio de caso: &lt;a href=&#34;https://dialnet.unirioja.es/descarga/articulo/9149692.pdf&#34;&gt;Capital Social e Innovación — La Quinta Fachada (Dialnet)&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;center&gt;&lt;iframe width=&#34;700&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/hVDtL48ViCU&#34; frameborder=&#34;0&#34; allowfullscree&gt;&lt;/iframe&gt;&lt;/center&gt;
+  &lt;figcaption&gt;Noticias TV Azteca - presentando el sistema de construcción 5ta Fachada: una solución innovadora, sustentable y digna que transforma techos en oportunidades para construir hogares accesibles y estéticamente valiosos.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured1.jpeg&#34; width=&#34;500&#34;&gt;
+  &lt;figcaption&gt;De izquierda a derecha: Fabio Dávila (Coordinador de Servicios Tecnológicos, CIMAT), Luz Angélica Caudillo Mata (miembro equipo 5ta Fachada), Dr. Pedro Luis López de Alba (Director de CONCyTEG), Héctor Hernández (miembro del equipo 5ta Fachada) y Francisco Solís (Investigador, CIMAT).&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured3.jpeg&#34; width=&#34;500&#34;&gt;
+  &lt;figcaption&gt;Luz Angélica Caudillo Mata (sublíder técnica, izquierda) y Maximino Tapia (líder técnico, derecha) durante la exhibición del proyecto 5ta Fachada.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured2.jpeg&#34; width=&#34;500&#34;&gt;
+  &lt;figcaption&gt;Luz Angélica Caudillo Mata (sublíder técnica, CIMAT, izquierda) y Marcos Escalante (líder de ingeniería, Tejas El Águila, derecha) durante la exhibición del proyecto 5ta Fachada.&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
